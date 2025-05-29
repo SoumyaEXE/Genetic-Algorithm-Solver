@@ -16,6 +16,7 @@ https://github.com/PrithwishaM/Genetic-Algorithm-Solver.git
 cd Genetic-Algorithm-Solver
 
 2)Install the required package: pip install matplotlib
+
 3)Run the program: python ga.py
 *You will be prompted to enter: population size(e.g. 20) & Number of generations(e.g. 50)
 
