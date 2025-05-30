@@ -1,6 +1,6 @@
 #Genetic algorithm solver
 
-This project implements a simple Genetic Algorithm to optimize a mathematical function. It demonstrates the core principles of evolutionary computation- selections, crosssover, mutation, and survival of the fittest- in a clear and visual way.
+This project implements a simple Genetic Algorithm to optimize a mathematical function. It demonstrates the core principles of evolutionary computation- selections, crossover, mutation, and survival of the fittest- in a clear and visual way.
 
 ##Features:
 -Evolves a population to optimize a given fitness function
